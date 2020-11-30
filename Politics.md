@@ -18,3 +18,31 @@ This was **_my_** moment. This was **_MY_** election! Could I vote? NO. Did I ca
 
 ## 2020 Election
 Less enthuasiasm but still engaged in the happenings. Who ever wins I wish them the best, truly!
+
+
+### Because you asked...
+Here is a block of code. 
+
+name = 'Jackson Samson'
+
+print(name)
+
+print("I am majoring in economics and sociology.")
+
+print("I am not that big of fan of breakfast foods.")
+
+print("I love medium rare steaks")
+
+print("Math heavy classes should not be taught through pre-recorded lectures.")
+
+print("The End.")
+
+
+
+
+#### Links to other pages
+* [Home](/README.md)
+* [Music](/Music.md)
+* [Supertramp](/Supertramp.md)
+* [Faith](/Faith.md)
+* [Politics](/Politics.md)
