@@ -14,29 +14,51 @@ Here is a list of basic requeirements to apply for the [FBI Special Agent positi
 ## Work at a Church with Music and Worship
 This does not really have a good general title I could think of but it works. Essentailly I would like to be in charge of planning sets for Worship services, writting music for the Church and working with students and others in the area of music. This really hasn't been a part of a career consideration until this semester. I really felt a push from God in this direction and [music](/Music.md) is my one of my favorite things next to food. This also goes back to serving people and being a part of something bigger than myself. Both this and the FBI fall into that category. I just really want to honor God in whatever I do, maybe this will work out. 
 
-I am including code from one of my projects this year that sorta fits with the FBI theme and not at all with the Worship leader theme. It is from our positioning calculator in python. 
- >print( "Welcome to my ICBM Position Calculator: sponsored by the US Government")
+I am including code from one of my projects this year that sorta fits with the FBI theme and not at all with the Worship leader theme. It is from our positioning calculator in python. I had a fun time theming it!
+
+print( "Welcome to my ICBM Position Calculator: sponsored by the US Government")
+
 print( "This program is made possible by the tax paying public and users like you: Thank You!")
+
 initial_position_of_missile = float(input("Enter the missile's initial position in meters: "))
+
 initial_velocity_of_missile = float(input("Enter the missile's initial velocity in meters per second: "))
+
 acceleration_of_missile = float(input("Enter the missile's accleration in meters per second squared: "))
+
 flight_time = float(input("Enter the missile's estimated total flight time in seconds: "))
+
 Missile_Final_Position = (initial_position_of_missile + initial_velocity_of_missile * flight_time + 0.5 * acceleration_of_missile * flight_time * flight_time) 
+
 print ("Calculating...")
+
 import time
+
 time.sleep (3)
+
 print ("Calculating...")
+
 time.sleep (7)
+
 if initial_position_of_missile == 0 or initial_velocity_of_missile == 0 or acceleration_of_missile == 0 or flight_time == 0 :
-    print ("error")
+ print ("error")
+    
 else:
+
     print("The Missile's Final Position is:")
+    
     time.sleep(1)
+    
     print(str(Missile_Final_Position) + 'm')
+    
     time.sleep(1)
+    
     print("Hopefully you understand what this means in relation to your current position!")
+    
     print( "Stay safe out there!")
+    
     time.sleep(1)
+    
     print("Product of The United States Government ©2020")
     
 
