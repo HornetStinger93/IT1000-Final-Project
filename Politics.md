@@ -17,7 +17,7 @@ This was **_my_** moment. This was **_MY_** election! Could I vote? NO. Did I ca
 ![Revolution](https://i.imgur.com/7drHiqr.gif)
 
 ## 2020 Election
-Less enthuasiasm but still engaged in the happenings. Something is brewing...
+Less enthuasiasm but still engaged in the happenings. Something might happen.
 
 
 ### Because you asked...
