@@ -70,4 +70,4 @@ Exit = input("Press ENTER to exit the program.")
 * [Music](/Music.md)
 * [Supertramp](/Supertramp.md)
 * [Faith](/Faith.md)
-* [
+* [Politics](/Politics.md)
