@@ -35,6 +35,7 @@ I wanted to put other bands on here but these are the bands that I have listened
 * Tears for Fears - [_The Hurting_](https://www.youtube.com/watch?v=PaUg2d3ICqY)
 * Slayer - [_Hell Awaits_](https://www.youtube.com/watch?v=jz3KIFMw92E)
 * Black Sabbath - [_Sabotage_](https://www.youtube.com/watch?v=ipNOKC5u7ZQ)
+
 Pick any of these they are 10/10s. These lists have been the hardest thing I've done this semester. 
 ## 3. Musical Aspirations
 I would love to use this interest in music to write my own songs and albums. I enjoy writing the music part but lyrics are hard. I'd love to write for a Church and hopefully reach an audience that is not neccisarrily Christian. I want to make Worshipful music in lyrics but also take from some of my favorite artists and throw it all together. I love music if you can't tell. 
