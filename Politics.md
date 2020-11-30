@@ -1,5 +1,5 @@
 # Politics
-  Maybe not the most fun topic for some people, but to me it is sports with actual consequences.
+ This may not be not the most fun topic for some people, but to me it is sports with actual consequences.
   If you misclicked this page click [**here**](/README.md) to go back.
   
 ## Origin of Liking
@@ -17,7 +17,7 @@ This was **_my_** moment. This was **_MY_** election! Could I vote? NO. Did I ca
 ![Revolution](https://i.imgur.com/7drHiqr.gif)
 
 ## 2020 Election
-Less enthuasiasm but still engaged in the happenings. Who ever wins I wish them the best, truly!
+Less enthuasiasm but still engaged in the happenings. Something is brewing...
 
 
 ### Because you asked...
