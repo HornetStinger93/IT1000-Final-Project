@@ -12,6 +12,8 @@ Here is a list of basic requeirements to apply for the [FBI Special Agent positi
 * Pass PFT
 * and some other stuff
 ## Work at a Church with Music and Worship
+![A Church](https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/f/80/f80619fc-b96d-11ea-8a89-037a28b4382b/5ef8e2a7322f2.image.jpg?resize=1024%2C684)
+>Leanne Tippett Mosby/ Missourian
 This does not really have a good general title I could think of but it works. Essentailly I would like to be in charge of planning sets for Worship services, writting music for the Church and working with students and others in the area of music. This really hasn't been a part of a career consideration until this semester. I really felt a push from God in this direction and [music](/Music.md) is my one of my favorite things next to food. This also goes back to serving people and being a part of something bigger than myself. Both this and the FBI fall into that category. I just really want to honor God in whatever I do, maybe this will work out. 
 
 ### Here is some code
