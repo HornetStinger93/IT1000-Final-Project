@@ -19,11 +19,18 @@ This is relativley recent as I got a midi keyboard for Christmas last year. I wi
 * 3a. [Black Sabbath](https://www.youtube.com/watch?v=Jfox9Gt0Ulw)
 * 4a. [Metallica](https://www.youtube.com/watch?v=6rNELTZO0QQ&list=PL6ogdCG3tAWiIOauDDXTvfTL-Gx4vz1Wt&index=5)
 * 5a. [Death](https://www.youtube.com/watch?v=LBIFlz__1EY)
+
 I wanted to put other bands on here but these are the bands that I have listened to all or most of their discography. There are probably three that will never change and they are Megadeth, Supertramp, and Def Leppard.
 ### Favorites Right Now
 * [Kate Bush](https://www.youtube.com/watch?v=Fk-4lXLM34g)
+
 * [Supertramp](https://www.youtube.com/watch?v=T94GqLtPlN8)
+
+![Supertramp](https://lh3.googleusercontent.com/proxy/PwLdbJZjrhp24HWRy5b3kDGL9bTRjDR2d6NLwZvskqEcQzg0sxIR8SNo_DqUxaKvie4FFdRWLerMWtua58LOB6Ffc-gKF05Xs_bzJOfoEbUjn0sRoZfqO-BlQYfc)
+
 * [Fleetwood Mac](https://www.youtube.com/watch?v=KAz_a8AjHgE)
+
+![Fleetwood Mac](https://i.pinimg.com/originals/bd/c6/f3/bdc6f330632e5460eed96554efc403cc.png)
 ### Top 10 Albums of All Time
 * Supertramp - [_Breakfast in America_](https://www.youtube.com/watch?v=82AA8OeSnxI)
 * Megadeth - [_Rust in Peace_](https://www.youtube.com/watch?v=pFrQ2uS_9dc)
