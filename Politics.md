@@ -19,6 +19,20 @@ This was **_my_** moment. This was **_MY_** election! Could I vote? NO. Did I ca
 ## 2020 Election
 Less enthuasiasm but still engaged in the happenings. Something might happen.
 
+#### Ranking Them
+This is top to bottom.
+* 2016 Election
+|
+|
+|
+|
+|
+|
+|
+\/
+* 2012 Election
+* 2020 Election (This may rank higher on the list the **_vote_** is still out (ha-ha)
+
 
 ### Because you asked...
 Here is a block of code. 
