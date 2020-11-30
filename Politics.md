@@ -37,8 +37,6 @@ This is top to bottom.
 
 |
 
- \/
-
 * 2012 Election
 * 2020 Election (This may rank higher on the list the **_vote_** is still out (ha-ha)
 
