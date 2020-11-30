@@ -48,3 +48,67 @@ I wanted to put other bands on here but these are the bands that I have listened
 Pick any of these they are 10/10s. These lists have been the hardest thing I've done this semester. 
 ## 3. Musical Aspirations
 I would love to use this interest in music to write my own songs and albums. I enjoy writing the music part but lyrics are hard. I'd love to write for a Church and hopefully reach an audience that is not neccisarrily Christian. I want to make Worshipful music in lyrics but also take from some of my favorite artists and throw it all together. I love music if you can't tell. 
+
+
+### Because you asked...
+ Here is another block of code. This is my **_turtlegraphics64_**:
+
+>import turtle 
+
+  hurricane = turtle.Turtle()
+
+  hurricane.speed(30)
+  #So this makes a sorta eye looking thing which I like.
+
+  #It makes me think of the song 1000 Eyes by Death. Terrific song btw.
+
+  #Also for some reason reminds me of sketches of the globe on the internet from the 1990s.
+
+  #I do not know where I get that idea from but it reminds me of it.
+
+  #This was a fun project.
+
+ for i in range(50):
+
+    hurricane.pencolor("red")
+    hurricane.circle(10)
+    hurricane.left(45)
+    
+    hurricane.pencolor("green")
+    hurricane.circle(20)
+    hurricane.right(150)
+
+    hurricane.pencolor("yellow")
+    hurricane.circle(30)
+    hurricane.right(100)
+
+    hurricane.pencolor("blue")
+    hurricane.circle(40)
+    hurricane.degrees(180)
+
+    hurricane.pencolor("black")
+    hurricane.circle(50)
+    hurricane.degrees(180)
+    
+    hurricane.penup()
+    hurricane.setposition(0, 0)
+    hurricane.pendown()
+    
+    hurricane.right(2)
+    
+turtle.done()
+
+
+ 
+
+
+
+
+
+#### Links to other pages
+* [Home](/README.md)
+* [Music](/Music.md)
+* [Supertramp](/Supertramp.md)
+* [Faith](/Faith.md)
+* [Politics](/Politics.md)
+
