@@ -24,7 +24,7 @@ I wanted to put other bands on here but these are the bands that I have listened
 ### Favorites Right Now
 * [Kate Bush](https://www.youtube.com/watch?v=Fk-4lXLM34g)
 
-![Kate Bush](/katebush.jpeg)
+![Kate Bush](/katebush.jpg)
 
 * [Supertramp](https://www.youtube.com/watch?v=T94GqLtPlN8)
 
