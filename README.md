@@ -9,4 +9,4 @@ I plan on taking you through five aspects of my life.
 * [Music](Music.md)
 * [Careers](Careers.md)
 * [Supertramp](Supertramp.md)
-
+> These sites will be summaries of the topic and its relation to my life. Expect to see links to relevant music on every page (_except for careers, that one may be a bit boring_). 
