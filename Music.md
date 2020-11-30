@@ -13,6 +13,17 @@ This is relativley recent as I got a midi keyboard for Christmas last year. I wi
 
 ## 2. Listening to Music
 ### Top 5 Bands
-* 1a. Megadeth
-* 1b. Supertramp
-* 2a.  
+* 1a. [Megadeth](https://www.youtube.com/watch?v=JjkIhYU33v8)
+* 1b. [Supertramp](https://www.youtube.com/watch?v=FKVKZsmPsjQ)
+* 2a. [Def Leppard](https://www.youtube.com/watch?v=IQzw1wJO8bY)
+* 3a. [Black Sabbath](https://www.youtube.com/watch?v=Jfox9Gt0Ulw)
+* 4a. [Metallica](https://www.youtube.com/watch?v=6rNELTZO0QQ&list=PL6ogdCG3tAWiIOauDDXTvfTL-Gx4vz1Wt&index=5)
+* 5a. [Death](https://www.youtube.com/watch?v=LBIFlz__1EY)
+I wanted to put other bands on here but these are the bands that I have listened to all or most of their discography. There are probably three that will never change and they are Megadeth, Supertramp, and Def Leppard.
+### Favorites Right Now
+* [Kate Bush](https://www.youtube.com/watch?v=Fk-4lXLM34g)
+* [Supertramp](https://www.youtube.com/watch?v=T94GqLtPlN8)
+* [Fleetwood Mac](https://www.youtube.com/watch?v=KAz_a8AjHgE)
+### Top 10 Albums of All Time
+* Supertramp - [Breakfast in America](https://www.youtube.com/watch?v=82AA8OeSnxI)
+*
