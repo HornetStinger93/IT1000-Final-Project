@@ -10,6 +10,7 @@ Essentially my older sister visited me last year and told me to listen to [_Brea
 
 These really helped me escape from the situation. Also from the end of August to Nov. 3rd I listened to no other album but _Breakfast in America_ again, this breaking my record of 2 weeks. I probably have a total listening time of at least 5 days with that album. Anyway I love them and their music.  
 
+![COTC](/COTC.jpg) ![CWC](/CWC.jpeg) ![EITQM](https://upload.wikimedia.org/wikipedia/en/c/ca/Supertramp_-_Even_in_the_Quietest_Moments.jpg) ![BIA](https://upload.wikimedia.org/wikipedia/en/c/c4/Supertramp_-_Breakfast_in_America.jpg)
 
 
 
@@ -20,3 +21,9 @@ These really helped me escape from the situation. Also from the end of August to
 
 
 
+#### Links to other pages
+* [Home](/README.md)
+* [Music](/Music.md)
+* [Supertramp](/Supertramp.md)
+* [Faith](/Faith.md)
+* [Politics](/Politics.md)
