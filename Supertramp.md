@@ -17,7 +17,11 @@ These really helped me escape from the situation. Also from the end of August to
 ### Because you asked...
 Here is my code for my Supertramp HTML site. It will be a picture because markdown reads the HTML code and executes it.
 
-![code]
+![code](/BIA.png)
+
+And the finished site:
+
+![html](/html.png)
 
 
 
