@@ -15,38 +15,10 @@ These really helped me escape from the situation. Also from the end of August to
 
 
 ### Because you asked...
-Here is my code for my Supertramp HTML site:
+Here is my code for my Supertramp HTML site. It will be a picture because markdown reads the HTML code and executes it.
 
-<DOCTYPE html>
-<html>
-<head>
-<title>Tell Me Who I Am</title>
-</head>
-<body style="background-color:powderblue;">
+![code]
 
-<h1 style="font-family:Verdana;">The Logical Song</h1>
-<pre style="font-family:Times New Roman;">   This is one of my favorite songs on the album <i>Breakfast in America</i>!
-I love the lyrical theme of social programing through education. The lyrics feel
-relatable to me.The lyrics, "Please tell me who I am" are especialy relevant in 
-todays society where it seems, at least to me, that social media platforms
-bombard developing minds with what to think, who to trust, who to hate, and not
-how to think.I think the internet is great but sometimes I wish I could
-experience life before it. Click the album to take a listen.</pre>
-<a href="https://www.youtube.com/watch?v=low6Coqrw9Y"> <img src="https://i.ebayimg.com/images/g/6bcAAOSwYwNbhfkO/s-l640.jpg" alt="STBIA.com" width="300" Height="300"> </a>
-
-<h2> Shape of Lyrics</h2>
-<p> Here are some abstract shapes I thought of while listening to the song.</p>
-<svg height="600" width="1000">
-	<polygon points="0,300 300,000 200,200 200,400 100,280" style="fill:palegoldenrod;stroke:lavender;stroke-width:3" />
-	<line x1="320" y1="-20" x2="240" y2="200" style="stroke:rgb(177,249,218); stroke-width:2" />
-	<polygon points="220,400 340,280 320,20" style="fill:rgb(223,179,247);stroke:rgb(179,189,247);stroke-width:3" />
-	
-</svg>	
-
-<p> BY: Jackson Samson for INFOTC1000</P>
-
-</body>
-</html>
 
 
 
