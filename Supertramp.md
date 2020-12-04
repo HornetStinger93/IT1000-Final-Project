@@ -37,6 +37,6 @@ And the finished site:
 #### Links to other pages
 * [Home](/README.md)
 * [Music](/Music.md)
-* [Supertramp](/Supertramp.md)
+* [Careers](/Careers.md)
 * [Faith](/Faith.md)
 * [Politics](/Politics.md)
