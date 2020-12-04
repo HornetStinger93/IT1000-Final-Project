@@ -26,6 +26,6 @@ Here is there [website](https://www.veritasmizzou.com/the-campus).
 * [Home](/README.md)
 * [Music](/Music.md)
 * [Supertramp](/Supertramp.md)
-* [Faith](/Faith.md)
+* [Careers](/Careers.md)
 * [Politics](/Politics.md)
   
