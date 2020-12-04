@@ -17,7 +17,7 @@ This was **_my_** moment. This was **_MY_** election! Could I vote? NO. Did I ca
 ![Revolution](https://i.imgur.com/7drHiqr.gif)
 
 ## 2020 Election
-Less enthuasiasm but still engaged in the happenings. Something might happen.
+Less enthuasiasm but still engaged in the happenings. 
 
 #### Ranking Them
 This is top to bottom.
@@ -37,8 +37,8 @@ This is top to bottom.
 
 |
 
+* 2020 Election (This may rank higher on the list the **_vote_** (electoral college) is still out (ha-ha))
 * 2012 Election
-* 2020 Election (This may rank higher on the list the **_vote_** is still out (ha-ha)
 
 
 ### Because you asked...
