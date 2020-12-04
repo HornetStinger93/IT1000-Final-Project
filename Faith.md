@@ -18,4 +18,5 @@ Like I said above, I am on the music team and it is the best thing ever. It has 
  #### Because you asked...
   Here is a block of code from my fizzBuzz challenege: 
   
+  ![fizzbuzz](fizzbuzz.png)
   
