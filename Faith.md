@@ -22,3 +22,10 @@ Here is there [website](https://www.veritasmizzou.com/the-campus).
   
   ![fizzbuzz](fizzbuzz.png)
   
+  #### Links to other pages
+* [Home](/README.md)
+* [Music](/Music.md)
+* [Supertramp](/Supertramp.md)
+* [Faith](/Faith.md)
+* [Politics](/Politics.md)
+  
