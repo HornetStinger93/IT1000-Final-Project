@@ -20,7 +20,40 @@ Here is there [website](https://www.veritasmizzou.com/the-campus).
  #### Because you asked...
   Here is a block of code from my fizzBuzz challenege: 
   
-  ![fizzbuzz](fizzbuzz.png)
+  ```
+  <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
+
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (var i=1; i < 101; i++){
+    if (i % 15 == 0) displayHTML += "<p>" + "FizzBuzz" + "</p>";
+    else if (i % 3 == 0) displayHTML += "<p>" + "Fizz" + "</p>";
+    else if (i % 5 == 0) displayHTML += "<p>" + "Buzz" + "</p>";
+    else displayHTML += "<p>" + i + "</p>";
+				}
+	
+	
+	display.innerHTML = displayHTML
+}
+
+</script>
+
+</head>
+
+<body onload="fizzbuzz()">
+<div id="display">
+
+</div>
+</body>
+
+</html>
+```
   
   #### Links to other pages
 * [Home](/README.md)
