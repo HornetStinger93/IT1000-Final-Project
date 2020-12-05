@@ -44,6 +44,7 @@ This is top to bottom.
 ### Because you asked...
 Here is a block of code. 
 
+``` 
 name = 'Jackson Samson'
 
 print(name)
@@ -57,7 +58,7 @@ print("I love medium rare steaks")
 print("Math heavy classes should not be taught through pre-recorded lectures.")
 
 print("The End.")
-
+```
 
 
 
