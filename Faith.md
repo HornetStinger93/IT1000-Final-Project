@@ -15,7 +15,7 @@ We were generaly involved in the Church. Due to this being my habitus I eventual
   ## Veritas Music Team
 Like I said above, I am on the music team and it is the best thing ever. It has been what has gotten me through this semsester. It is the best part of my week getting to worship God through music with others. We started to record our services and our YouTube page is linked [_**here**_](https://www.youtube.com/c/VeritasCOMO/videos). These people are my family and I am blessed to be with them. 
 Here is there [website](https://www.veritasmizzou.com/the-campus).
-    
+    ![veritas](/veritas.jpg)
     
  #### Because you asked...
   Here is a block of code from my fizzBuzz challenege: 
