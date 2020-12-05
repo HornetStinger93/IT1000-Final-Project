@@ -53,7 +53,7 @@ I would love to use this interest in music to write my own songs and albums. I e
 ### Because you asked...
  Here is another block of code. This is my **_turtlegraphics64_**:
 
-`import turtle 
+` import turtle 
 
   hurricane = turtle.Turtle()
 
@@ -96,7 +96,7 @@ I would love to use this interest in music to write my own songs and albums. I e
     
     hurricane.right(2)
     
-turtle.done()`
+turtle.done() `
 
 ![Turtle](/turtle.png)
  
