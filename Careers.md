@@ -20,6 +20,7 @@ This does not really have a good general title I could think of but it works. Es
 ### Here is some code
 I am including code from one of my projects this year that sorta fits with the FBI theme and not at all with the Worship leader theme. It is from our positioning calculator in python. I had a fun time theming it!
 
+``` 
 print( "Welcome to my ICBM Position Calculator: sponsored by the US Government")
 
 print( "This program is made possible by the tax paying public and users like you: Thank You!")
@@ -67,7 +68,7 @@ else:
     
 
 Exit = input("Press ENTER to exit the program.")
-
+```
 #### Links to other pages
 * [Home](/README.md)
 * [Music](/Music.md)
