@@ -18,7 +18,7 @@ Here is there [website](https://www.veritasmizzou.com/the-campus).
     ![veritas](/veritas.jpg)
     
  #### Because you asked...
-  Here is a block of code from my fizzBuzz challenege: 
+  Here is a **block** of _code_ from my fizzBuzz challenege: 
   
   ```
   <!DOCTYPE html>
