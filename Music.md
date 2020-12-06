@@ -28,7 +28,7 @@ I wanted to put other bands on here but these are the bands that I have listened
 
 * [Supertramp](https://www.youtube.com/watch?v=T94GqLtPlN8)
 
-![Supertramp](https://lh3.googleusercontent.com/proxy/PwLdbJZjrhp24HWRy5b3kDGL9bTRjDR2d6NLwZvskqEcQzg0sxIR8SNo_DqUxaKvie4FFdRWLerMWtua58LOB6Ffc-gKF05Xs_bzJOfoEbUjn0sRoZfqO-BlQYfc)
+![Supertramp](https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/23/15/shutterstock-editorial-54007b.jpg?width=990)
 
 * [Fleetwood Mac](https://www.youtube.com/watch?v=KAz_a8AjHgE)
 
