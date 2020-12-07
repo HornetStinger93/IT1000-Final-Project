@@ -17,7 +17,7 @@ Here is a list of basic requeirements to apply for the [FBI Special Agent positi
 
 This does not really have a good general title I could think of but it works. Essentailly I would like to be in charge of planning sets for Worship services, writting music for the Church and working with students and others in the area of music. This really hasn't been a part of a career consideration until this semester. I really felt a push from God in this direction and [music](/Music.md) is my one of my favorite things next to food. This also goes back to serving people and being a part of something bigger than myself. Both this and the FBI fall into that category. I just really want to honor God in whatever I do, maybe this will work out. 
 
-### Here is some code
+### Because you asked... 
 I am including code from one of my projects this year that sorta fits with the FBI theme and not at all with the Worship leader theme. It is from our positioning calculator in python. I had a fun time theming it!
 
 ``` 
